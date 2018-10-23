@@ -9,7 +9,7 @@ At this point, we only need a text editor like:
 - [TextWrangler](https://itunes.apple.com/fr/app/textwrangler/id404010395?mt=12) on MacOS
 - [Atom](https://atom.io/) on Linux
 
-
+If you want to see the slides you can take it here : [French Slides](https://docs.google.com/presentation/d/19RY0pVKymPm60bTaC4Ac_8gNO69nLbAEkT932c5eaPI/edit#slide=id.p1)
 
 
 
@@ -24,5 +24,6 @@ Pour le moment, nous avons seulement besoin d'un éditeur de texte comme:
 - [TextWrangler](https://itunes.apple.com/fr/app/textwrangler/id404010395?mt=12) sur MacOS
 - [Atom](https://atom.io/) sur Linux
 
+Si vous voulez voir les slides, vous pouvez les trouver ici : [slides](https://docs.google.com/presentation/d/19RY0pVKymPm60bTaC4Ac_8gNO69nLbAEkT932c5eaPI/edit#slide=id.p1)
 
 
