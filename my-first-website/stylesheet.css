@@ -38,7 +38,7 @@ p {
     font-family: 'Marck Script', cursive;
 }
 
-table.center {
+table.mytable {
   border-collapse:collapse;
   width:50%;
   margin-left:25%;
