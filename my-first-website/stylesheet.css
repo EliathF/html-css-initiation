@@ -1,0 +1,85 @@
+
+
+body {
+    padding-left: 15px;
+    background: transparent url('images/wallpaper.jpg') no-repeat;
+}
+
+footer {
+    position: fixed;
+    height: 50px;
+    background-color: grey;
+    border-collapse:collapse;
+    width:50%;
+    margin-left:25%;
+    margin-right:25%;
+    text-align:center;
+    color: white;
+    bottom: 0;
+  }
+
+.content {
+    margin-left: 40px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Marck Script', cursive;
+    color: #FFBF00
+}
+h2, h3, h4 {
+    text-align: center;
+    font-family: 'Marck Script', cursive;
+    color: #1034A6
+}
+
+p {
+    text-align: center;
+    font-family: 'Marck Script', cursive;
+}
+
+table.center {
+  border-collapse:collapse;
+  width:50%;
+  margin-left:25%;
+  margin-right:25%;
+  text-align:center;
+  }
+
+  caption {
+  caption-side:bottom;
+  font-weight:bold;
+  font-style:italic;
+  margin:4px;
+  }
+
+  table,th, td {
+  border: 1px solid gray;
+  }
+
+  th, td {
+  height: 24px;
+  padding:4px;
+  vertical-align:middle;
+  }
+
+  th {
+  background-image:url(table-shaded.png);
+  }
+
+  .rowtitle {
+  background: #9CF;
+  font-weight:bold;
+  }
+
+/*create the tag "logo" because it doesn't exit*/
+#logo
+{
+	position : absolute;
+	top : 900px;
+	left : 225px;
+	border: 1.5px solid black;
+	width : 800px;
+	height : 50px;
+	background-color:#F5ECCE;
+}
